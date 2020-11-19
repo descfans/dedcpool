@@ -1,2 +1,1 @@
-# dedcpool
 node pool manager
